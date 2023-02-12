@@ -1,3 +1,4 @@
+//Agregar librería
 import { useState } from 'react';
 //Primero se crea una función llamada, es este caso es 'square'
 //hace que esta función sea accesible fuera de este archivo
